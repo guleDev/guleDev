@@ -3,7 +3,6 @@
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=2CB35A&repeat=false&random=false&width=435&lines=Learning)](https://git.io/typing-svg)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="20" width="20"/> *__JavaScript__*
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20" width="20"/> *__Java__*
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20" width="20"/> *__Python__* 
 <hr>
 <div class="technologies">
